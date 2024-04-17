@@ -1,4 +1,4 @@
-import './main.css'
+import './App.css'
 import itemInfo from "./components/shopCard/itemInfo.js";
 import ShopItemFunc from "./components/shopCard/shopItemFunc.jsx";
 
