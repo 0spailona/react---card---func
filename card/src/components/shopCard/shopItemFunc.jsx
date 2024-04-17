@@ -1,6 +1,6 @@
 function ShopItemFunc(props) {
     const {brand, title, description, descriptionFull, price, currency} = props;
-    console.log(props)
+    console.log(props);
     return (
         <div className="main-content">
             <h2>{brand}</h2>
@@ -18,4 +18,5 @@ function ShopItemFunc(props) {
         </div>
     );
 }
-export default ShopItemFunc
+
+export default ShopItemFunc;
